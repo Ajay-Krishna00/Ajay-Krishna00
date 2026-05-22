@@ -27,12 +27,12 @@
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,css,django,docker,dotnet,express,fastapi,firebase,flutter,git,html,js,jest,jupyter,mysql,nextjs,numpy,py,pytorch,react,tailwind,tensorflow,ts,unity,vue" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,express,react,tailwind,nextjs,ts,fastapi,django,docker,dotnet,firebase,flutter,git,jupyter,mysql,py,pytorch,tensorflow,unity,vue" />
 </p>
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Ajay-Krishna00&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Krishna00&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api?username=Ajay-Krishna00&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false) 
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ajay-Krishna00&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
