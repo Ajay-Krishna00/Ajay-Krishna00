@@ -30,16 +30,17 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,express,react,tailwind,nextjs,ts,fastapi,django,docker,dotnet,firebase,flutter,git,jupyter,mysql,py,pytorch,tensorflow,unity,vue" />
 </p>
 
-## GitHub Stats
+## GitHub Stats  
 ![](https://github-readme-stats-fast.vercel.app/api?username=Ajay-Krishna00&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false) 
 ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ajay-Krishna00&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajay-Krishna00&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy-one.vercel.app/?username=Ajay-Krishna00&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
+## 
 <p align="center">
   <a href="https://www.buymeacoffee.com/ajaykrishnad">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" />
