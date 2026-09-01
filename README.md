@@ -45,7 +45,7 @@
 
 #### ⚙️ Backend, Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,django,docker,supabase,firebase,mysql,postgres,git,linux&theme=dark" alt="Backend & DevOps"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,docker,supabase,firebase,mysql,postgres,git,linux&theme=dark" alt="Backend & DevOps"/>
 </p>
 
 </div>
@@ -62,7 +62,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy-one.vercel.app/?username=Ajay-Krishna00&bg_color=0d1117&title_color=FFD700&text_color=ffffff&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-one.vercel.app/?username=Ajay-Krishna00&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
