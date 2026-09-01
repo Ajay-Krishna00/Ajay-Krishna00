@@ -6,7 +6,7 @@
 <!-- Animated Typewriter -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=Building+Intelligent+AI%2FML+and+Agentic+Systems;Crafting+Godot+4+Games+and+Interactive+3D%2FAR;Engineering+Full-Stack+Web+and+Mobile+Solutions;Exploring+Frontier+Tech,+Space+and+Creative+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=620&lines=Building+Intelligent+AI%2FML+and+Agentic+Systems;Crafting+Godot+4+Games+and+Interactive+3D%2FAR;Engineering+Full-Stack+Web+and+Mobile+Solutions;Exploring+Frontier+Tech,+Space+and+Creative+Code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -55,14 +55,14 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ajay-Krishna00&bg_color=0d1117&title_color=10b981&text_color=e6edf3&icon_color=34d399&border_color=059669&show_icons=true&include_all_commits=true&count_private=false" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ajay-Krishna00&bg_color=0d1117&title_color=10b981&text_color=e6edf3&icon_color=34d399&border_color=059669&layout=compact" height="175" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ajay-Krishna00&bg_color=0d1117&title_color=FFD700&text_color=e6edf3&icon_color=FFD700&border_color=059669&show_icons=true&include_all_commits=true&count_private=false" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ajay-Krishna00&bg_color=0d1117&title_color=FFD700&text_color=e6edf3&icon_color=FFD700&border_color=059669&layout=compact" height="175" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy-one.vercel.app/?username=Ajay-Krishna00&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-one.vercel.app/?username=Ajay-Krishna00&bg_color=0d1117&title_color=FFD700&text_color=ffffff&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -77,7 +77,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/enthusiastajay00" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/10B981" height="42" alt="LeetCode"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42" alt="LeetCode"/>
   </a>
   <a href="https://twitter.com/@ajay_k_d" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="42" alt="Twitter"/>
