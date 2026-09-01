@@ -1,12 +1,12 @@
 <!-- Header Wave Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=220&section=header&text=Ajay%20Krishna%20D&fontSize=48&fontAlignY=38&desc=AI%2FML%20Engineer%20-%20Game%20and%203D%2FAR%20Dev%20-%20Full-Stack%20Creator&descAlignY=58&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=220&section=header&text=Ajay%20Krishna%20D&fontSize=48&fontAlignY=38&desc=AI%2FML%20Engineer%20-%20Game%20and%203D%2FAR%20Dev%20-%20Full-Stack%20Creator&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%" alt="Header Banner"/>
 </div>
 
 <!-- Animated Typewriter -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=Building+Intelligent+AI%2FML+and+Agentic+Systems;Crafting+Games+and+Interactive+3D%2FAR;Engineering+Full-Stack+Web+and+Mobile+Solutions;Exploring+Frontier+Tech+Space+and+Creative+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=Building+Intelligent+AI%2FML+and+Agentic+Systems;Crafting+Godot+4+Games+and+Interactive+3D%2FAR;Engineering+Full-Stack+Web+and+Mobile+Solutions;Exploring+Frontier+Tech,+Space+and+Creative+Code" alt="Typing SVG" />
   </a>
 </div>
 
