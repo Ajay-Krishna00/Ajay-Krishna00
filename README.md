@@ -1,23 +1,16 @@
 <!-- Header Wave Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=022c22,064e3b,047857,059669,10b981,34d399&height=220&section=header&text=Ajay%20Krishna%20D&fontSize=48&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Game%20%26%203D%2FAR%20Dev%20%E2%80%A2%20Full-Stack%20Creator&descAlignY=58&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=220&section=header&text=Ajay%20Krishna%20D&fontSize=48&fontAlignY=38&desc=AI%2FML%20Engineer%20-%20Game%20and%203D%2FAR%20Dev%20-%20Full-Stack%20Creator&descAlignY=58&descAlign=50" width="100%" alt="Header Banner"/>
 </div>
 
 <!-- Animated Typewriter -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=Building+Intelligent+AI%2FML+%26+Agentic+Systems;Crafting+Godot+4+Games+%26+Interactive+3D%2FAR;Engineering+Full-Stack+Web+%26+Mobile+Solutions;Exploring+Frontier+Tech%2C+Space+%26+Creative+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=Building+Intelligent+AI%2FML+and+Agentic+Systems;Crafting+Godot+4+Games+and+Interactive+3D%2FAR;Engineering+Full-Stack+Web+and+Mobile+Solutions;Exploring+Frontier+Tech,+Space+and+Creative+Code" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
-
-<!-- 3D Portfolio Spotlight -->
-<p align="center">
-  <a href="https://ajaykrishna3d-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Explore_My_Interactive_3D_Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="3D Portfolio"/>
-  </a>
-</p>
 
 ---
 
@@ -84,7 +77,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/enthusiastajay00" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" height="42" alt="LeetCode"/>
+    <img src="https://cdn.simpleicons.org/leetcode/10B981" height="42" alt="LeetCode"/>
   </a>
   <a href="https://twitter.com/@ajay_k_d" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="42" alt="Twitter"/>
@@ -105,5 +98,5 @@
 
 <!-- Footer Wave Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=022c22,064e3b,047857,059669,10b981,34d399&height=100&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=100&section=footer" width="100%" alt="Footer Banner"/>
 </div>
