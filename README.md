@@ -30,7 +30,7 @@
 
 #### 🧠 AI, Machine Learning & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,jupyter,opencv&theme=dark" alt="AI & ML Stack"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,opencv&theme=dark" alt="AI & ML Stack"/>
 </p>
 
 #### 🎮 Game Development, 3D & AR
