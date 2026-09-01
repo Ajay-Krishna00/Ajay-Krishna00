@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ajay Krishna D</h1>
 
+<p align="center">
+  <a href="https://ajaykrishna3d-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Explore_My_3D_Portfolio-ajaykrishna3d--portfolio.vercel.app-6366f1?style=for-the-badge&logoColor=white" alt="3D Portfolio" />
+  </a>
+</p>
+
 ## 💫 About Me
-- 🔭 Currently working on **AI/ML**
+- 🌐 **Portfolio:** [**ajaykrishna3d-portfolio.vercel.app**](https://ajaykrishna3d-portfolio.vercel.app/)
+- 🔭 Currently working on **AI/ML & Game Development**
 - 🎓 B.Tech Student at **Model Engineering College**
 - 🤝 Open to collaborate on **any interesting project**
 - 🧠 Exploring **all fields of Computer Science**
@@ -10,6 +17,9 @@
 
 ## 🌐 Connect with me
 <p align="center">
+  <a href="https://ajaykrishna3d-portfolio.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/ajay-krishna-d">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
@@ -27,7 +37,7 @@
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,express,react,tailwind,nextjs,ts,fastapi,django,docker,dotnet,firebase,flutter,git,jupyter,mysql,py,pytorch,tensorflow,unity,vue" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,godot,html,css,js,express,react,tailwind,nextjs,ts,fastapi,django,docker,dotnet,firebase,flutter,git,jupyter,mysql,py,pytorch,tensorflow,unity,vue" />
 </p>
 
 ## GitHub Stats  
